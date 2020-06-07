@@ -1,4 +1,4 @@
-baseURL = "energyclubiitb.github.io"
+baseURL = "enclubiitb"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
